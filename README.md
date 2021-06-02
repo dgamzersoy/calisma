@@ -1,9 +1,9 @@
 # calisma
 
 
-*padding
-*margin
-*CSS *Selector* komutları
-*Child da işlem yapma (:nth-child())
+* Padding
+* Margin
+* CSS *Selector* komutları
+* Child (:nth-child())
  * display: flex;
   justify-content:flex-start;
